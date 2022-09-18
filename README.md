@@ -7,7 +7,7 @@
 
 # Making a bigger ball by combining small balls!
 ### The bigger the number, the ball gets bigger and it has more character!
-### There is a chain reaction and the Directions logo is shown.
+### The chain reaction shows the Directions2022's logo.
 
 
 | Image 1 | Image 2 | Image 3 | Image 4 |
