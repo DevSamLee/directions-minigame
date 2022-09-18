@@ -4,12 +4,12 @@
 * Source code: https://github.com/liyupi/daxigua
 * Image customizing: https://daxigua-tools.liyupi.com/
 
-# LET'S PLAY
+# LET'S PLAY 🎮
 * Link : https://devsamlee.github.io/directions-minigame/
 
 # HOW TO PLAY - Making a bigger ball by combining small balls!
-### The bigger the number, the ball gets bigger and it has more character!
-### The chain reaction shows the Directions2022's logo.
+* The bigger the number, the ball gets bigger and it has more character!
+* The chain reaction shows the Directions2022's logo.
 
 
 | Image 1 | Image 2 | Image 3 | Image 4 |
