@@ -22,7 +22,14 @@
 
 
 ## Visual
-![image](https://user-images.githubusercontent.com/96956309/190503718-a87009da-b1fc-4abe-a7d9-6b5bd1a9f6ba.png)
+| Play screen | Line Warning |
+|-------|-------|
+|![](./sourceImg/play.png)|![](./sourceImg/tryagain.png)|
+
+
+| The End | Try Again? | 
+|-------|-------|
+|![](./sourceImg/line2.png)|![](./sourceImg/tryagain.png)|
 
 
 ## Sounds
