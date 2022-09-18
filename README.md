@@ -24,7 +24,7 @@
 ## Visual
 | Play screen | Line Warning |
 |-------|-------|
-|![](./sourceImg/play.png)|![](./sourceImg/tryagain.png)|
+|![](./sourceImg/play.png)|![](./sourceImg/line1.png)|
 
 
 | The End | Try Again? | 
