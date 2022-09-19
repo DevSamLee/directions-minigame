@@ -24,11 +24,13 @@
 ## Visual
 | Play screen | Line Warning |
 |-------|-------|
+| When the user touches the screen, the ball will be dropped. | When the top of the ball is close to the top, the line warning will show. |
 |![](./sourceImg/play.png)|![](./sourceImg/line1.png)|
 
 
 | The End | Try Again? | 
 |-------|-------|
+| When the ball touches the line, the game will be stopped. | The user can see the score and the try-again button will be displayed. |
 |![](./sourceImg/line2.png)|![](./sourceImg/tryagain.png)|
 
 
